@@ -4,6 +4,7 @@ When I grew up, phones were connected to a phone jack with a phone cord, the pho
 
 The introduction of the internet and the growth that has occurred since has changed the world.  Today, people are more connected than ever.  Almost everyone has a cellular phone and a computer or laptop of some sort that is connected to the internet.  Many people have other items such as tablets, gaming consoles, and smart televisions that keep us connected to each other and the world.  The internet of things portion of this class concentrated on how we are connected and utilized a device called a microbit to demonstrate how we can write programs to control a device that can receive or transmit data and then can perform a task with this data.
 
+Some of the exercises we completed using the microbit used bluetooth technology to transmit data to other microbits and the receiving microbit would gather the data and would display a signal depending on the data received.  Other exercises included creating pictures using the led grid on the microbit.  We eventually prograssed to creating a program that interacted with our cell phones.  For our Internet of Things project, my partner and I developed a step counter that not only counted steps, but converted those steps to miles and played a tone when 10,000 steps were reached. 
 
 ```java
 // Step Counter
