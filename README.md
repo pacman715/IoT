@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+##### Return to [About Me](https://pacman715.github.io/pcabano-portfolio/)
 
-You can use the [editor on GitHub](https://github.com/pacman715/IoT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+When I grew up, phones were connected to a phone jack with a phone cord, the phone jack was connected to wires in the walls and those wires were connected to a junction box which had a cable that went to a telephone pole.  Television was limited to a handful of channels, but needed an antenna to be positioned correctly and within a certain range of the television station.  Radio was also wireless, but dependent upon the proximity of the radio stations.  These were the most common methods of connectivity and electronic information dissemination.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The introduction of the internet and the growth that has occurred since has changed the world.  Today, people are more connected than ever.  Almost everyone has a cellular phone and a computer or laptop of some sort that is connected to the internet.  Many people have other items such as tablets, gaming consoles, and smart televisions that keep us connected to each other and the world.  The internet of things portion of this class concentrated on how we are connected and utilized a device called a microbit to demonstrate how we can write programs to control a device that can receive or transmit data and then can perform a task with this data.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pacman715/IoT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## [Unit 1 Repository](https://github.com/pacman715/python_fundamentals/tree/master/Unit%201)
